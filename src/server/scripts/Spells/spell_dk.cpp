@@ -30,7 +30,7 @@
 #include "ObjectMgr.h"
 #include "Player.h"
 #include "PlayerAI.h"
-#include "Spell.h" 
+#include "Spell.h"
 #include "SpellAuraEffects.h"
 #include "SpellAuras.h"
 #include "SpellHistory.h"
